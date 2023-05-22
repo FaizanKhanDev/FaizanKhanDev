@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizankhandev&label=Profile%20views&color=0e75b6&style=flat" alt="faizankhandev" /> </p>
 
-- 🔭 I’m currently working on **On Boarding using Nuxt 2**
+- 🔭 I’m currently working on **On Boarding using Nuxt 2 and also e-commerce Store using Django**
 
 - 🌱 I’m currently learning **GraphQL,vuex,Nuxt 2,**
 

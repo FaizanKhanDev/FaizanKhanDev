@@ -34,5 +34,5 @@
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizankhandev&show_icons=true&locale=en" alt="faizankhandev" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)" alt="faizankhandev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizankhandev&layout=pie" alt="faizankhandev" /></p>
 

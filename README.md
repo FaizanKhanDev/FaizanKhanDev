@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://faizankhandevresume.netlify.app/](https://faizankhandevresume.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100037986905212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100037986905212" height="30" width="40" /></a>
 </p>

@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **CRM and BLOG Site using GraphQL,vuex,vue/Nuxt 2,Hasura nhost**
 
-- I have Expertise In **HTML CSS JavaScript Vue/Nuxt,Vuex, GraphQl, hasura, nhost, Django,PostgreSql**
+- I have Expertise In **HTML CSS Bootrap JavaScript Vue/Nuxt, Vuetify, Vuex, GraphQl, hasura, nhost, Django,PostgreSql**
 
-- 👨‍💻 All of my projects are available at (Not All) [https://faizankhandev.netlify.app/](https://faizankhandev.netlify.app/)
+- 👨‍💻 My projects are available at (Not All) [https://faizankhandev.netlify.app/](https://faizankhandev.netlify.app/)
 
 - 💬 Ask me about **Web developement**
 

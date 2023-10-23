@@ -3,8 +3,9 @@
    Assalamouliekum, My Name is Faizan Khan
 </h1>
 <p>
-I'm software developer/engineer from Pakistan Karachi (The City of Light ❤️) 
-with expertise in a variety of technologies. I have a strong background in web development, including HTML, CSS, and JavaScript, along with hands-on experience in building interactive and dynamic user interfaces using Vue.js and Nuxt.js. I'm also skilled in database management, having worked extensively with PostgreSQL and SQL for data storage and retrieval. My proficiency extends to backend development where I've used Django to create robust and scalable server-side applications. Additionally, I'm well-versed in state management through Vuex, and I've worked with GraphQL for efficient data querying and manipulation. I'm experienced in integrating APIs and services using Hasura and Nhost, which further enhances my ability to deliver end-to-end solutions. Overall, I'm passionate about crafting high-quality software that combines technical excellence with user-centric designs</p>
+   I'm software developer/engineer from Pakistan Karachi (The City of Light ❤️) 
+with expertise in a variety of technologies. I have a strong background in web development, including HTML, CSS, and JavaScript, along with hands-on experience in building interactive and dynamic user interfaces using Vue.js and Nuxt.js. I'm also skilled in database management, having worked extensively with PostgreSQL and SQL for data storage and retrieval. My proficiency extends to backend development where I've used Django to create robust and scalable server-side applications. Additionally, I'm well-versed in state management through Vuex, and I've worked with GraphQL for efficient data querying and manipulation. I'm experienced in integrating APIs and services using Hasura and Nhost, which further enhances my ability to deliver end-to-end solutions. Overall, I'm passionate about crafting high-quality software that combines technical excellence with user-centric designs
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizankhandev&label=Profile%20views&color=0e75b6&style=flat" alt="faizankhandev" /> </p>
 

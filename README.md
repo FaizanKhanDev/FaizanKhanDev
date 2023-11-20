@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   Assalamouliekum, My Name is Faizan Khan
+   Assalamouliekum, My Name is Faizan Khan  
 </h1>
 <p>
       I'm software developer/engineer from Pakistan Karachi (The City of Light ❤️) 

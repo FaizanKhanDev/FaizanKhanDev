@@ -10,38 +10,30 @@ const git = simpleGit({
 });
 const log = await git.log();
 
-const start = new Date();
-start.setFullYear(start.getFullYear() - 1);
+// Date to add
+const dateToAdd = new Date("2024-04-10T00:00:00Z");
 
-const end = new Date();
+const foundCommit = log.all.find((item) => {
+  return new Date(item.date).toLocaleDateString() === dateToAdd.toLocaleDateString();
+});
 
-let found = 0;
-let missing = 0;
+if (foundCommit) {
+  console.log(`Commit for ${dateToAdd.toLocaleDateString()} already exists.`);
+} else {
+  console.log(`Committing for ${dateToAdd.toLocaleDateString()}.`);
 
-while (start <= end) {
-  const foundCommit = log.all.find((item) => {
-    return (
-      new Date(item.date).toLocaleDateString() === start.toLocaleDateString()
-    );
+  // Write to a file (optional)
+  fs.writeFileSync("fake-history.txt", dateToAdd.toISOString());
+
+  // Add and commit
+  await git.add(".");
+  await git.commit("Added commit for April 10, 2024", {
+    "--date": dateToAdd.toISOString(),
   });
 
-  if (foundCommit) {
-    found += 1;
-  } else {
-    missing += 1;
-    console.log(`Commiting for ${start.toLocaleString()}.`);
-    fs.writeFileSync("fake-history.txt", start.toISOString());
-    await git.add(".");
-    await git.commit("Hmm...", {
-      "--date": start.toISOString(),
-    });
-  }
-
-  start.setDate(start.getDate() + 1);
+  console.log(`Commit created for ${dateToAdd.toLocaleDateString()}.`);
 }
 
 await git.push();
 
-console.log(`${found} commits found`);
-console.log(`${missing} commits created`);
 process.exit();

@@ -1,4 +1,3 @@
-
 import { simpleGit } from "simple-git";
 import fs from "node:fs";
 

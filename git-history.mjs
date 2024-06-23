@@ -2,7 +2,7 @@
 import { simpleGit } from "simple-git";
 import fs from "node:fs";
 
-const dir = "C:\\Users\\hello\\Projects\\FaizanKhanDev\\eglove";
+const dir = "C:\\Users\\hello\\Projects\\FaizanKhanDev";
 
 process.chdir(dir);
 
